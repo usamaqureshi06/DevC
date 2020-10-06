@@ -1,3 +1,4 @@
 # DevC
 Social network for developers.
-Developed using MERN stack.
+Note: Work under Progress
+Being Developed using MERN stack.
